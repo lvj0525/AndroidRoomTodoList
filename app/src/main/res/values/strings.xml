@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RoomToDoList</string>
+    <string name="name_hint">name...</string>
+    <string name="content_hint">content...</string>
+    <string name="add_button">Add</string>
+    <string name="name">this is a name</string>
+    <string name="content">this is a content</string>
+    <string name="title_activity_update_todo">UpdateTodoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="update_button">Update</string>
+    <string name="delete_button">Delete</string>
+</resources>
